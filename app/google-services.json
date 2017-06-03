@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "857338199228",
+    "firebase_url": "https://shiftfiap-e242d.firebaseio.com",
+    "project_id": "shiftfiap-e242d",
+    "storage_bucket": "shiftfiap-e242d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857338199228:android:78dfe06602e2c719",
+        "android_client_info": {
+          "package_name": "br.com.heiderlopes.shiftcloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857338199228-habnce4c49gegeeuh7b82d6rqvla7t4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbwjxOlq498BnjApzCnIU887y8xx01m3g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
